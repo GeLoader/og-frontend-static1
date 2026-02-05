@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/og-frontend-static1/static/css/main.99f584ef.css",
+    "main.js": "/og-frontend-static1/static/js/main.8e449ab3.js",
+    "index.html": "/og-frontend-static1/index.html",
+    "main.99f584ef.css.map": "/og-frontend-static1/static/css/main.99f584ef.css.map",
+    "main.8e449ab3.js.map": "/og-frontend-static1/static/js/main.8e449ab3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99f584ef.css",
+    "static/js/main.8e449ab3.js"
+  ]
+}
